@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather-condition-app-with-react/static/css/main.7b50190c.css",
+    "main.js": "/weather-condition-app-with-react/static/js/main.b322a454.js",
+    "static/media/sunset.webp": "/weather-condition-app-with-react/static/media/sunset.8c47813abdb47cffd61a.webp",
+    "index.html": "/weather-condition-app-with-react/index.html",
+    "main.7b50190c.css.map": "/weather-condition-app-with-react/static/css/main.7b50190c.css.map",
+    "main.b322a454.js.map": "/weather-condition-app-with-react/static/js/main.b322a454.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b50190c.css",
+    "static/js/main.b322a454.js"
+  ]
+}
